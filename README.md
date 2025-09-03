@@ -2,7 +2,7 @@
 ## Table of Contents 📚
 
 - [Executive Summary](#Executive-Summary)
-- [Business Request](#BUSINESS-Request)
+- [Business Request](#BUSINESS-Request:)
 - Business Questions
 - Data collected from SQL data mining
 - Insights
@@ -16,7 +16,7 @@ The analysis revealed that the Italian food category was the top-performing and 
 
 Based on these insights, I recommended aligning pricing strategies with high-performing items, emphasizing popular dishes in marketing campaigns, promoting underperforming categories through targeted promotions, and analyzing high-value orders to optimize pricing and upselling opportunities. Implementing these strategies is expected to improve menu performance, increase profitability, and enhance customer satisfaction.
 
-## Business Request
+## Business Request:
 The World Cafe has recently launched “The Taste of the World Cafe” new menu, but management currently lacks a structured understanding of which items are performing well, which are underperforming, and what top customers prefer. These insights are critical to designing effective marketing campaigns, optimizing pricing and promotions, and increasing overall sales and profitability.
 
 This request seeks a comprehensive analysis to:
