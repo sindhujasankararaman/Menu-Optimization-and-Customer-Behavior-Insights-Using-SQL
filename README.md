@@ -2,7 +2,7 @@
 ## Table of Contents 📚
 
 - [Executive Summary](#Executive-Summary)
-- [Business Request](#BUSINESS-Request:)
+- [Business Request](#BUSINESS-Request)
 - Business Questions
 - Data collected from SQL data mining
 - Insights
