@@ -8,6 +8,14 @@
 - Insights
 - Recommendations
 
+## Executive Summary 
+
+World Cafe launched a new menu earlier this year but lacked data-driven insights into which items were performing well and which were preferred by top customers. To address this, I conducted exploratory data analysis using SQL to clean, summarize, and analyze transaction data, uncovering trends in customer orders and preferences.
+
+The analysis revealed that the Italian food category was the top-performing and most profitable, while Mexican dishes had lower sales and engagement. Key findings included daily sales averages, top-selling items like the Hamburger (622 orders), and low-performing items like Chicken Tacos (123 orders).
+
+Based on these insights, I recommended aligning pricing strategies with high-performing items, emphasizing popular dishes in marketing campaigns, promoting underperforming categories through targeted promotions, and analyzing high-value orders to optimize pricing and upselling opportunities. Implementing these strategies is expected to improve menu performance, increase profitability, and enhance customer satisfaction.
+
 ## Overview 📖
 
 Conducted exploratory analysis and data cleaning to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
