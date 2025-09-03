@@ -5,7 +5,7 @@
 - [Business Request](#BUSINESS-Request)
 - [Strategy](#Strategy)
 - [Business Questions](#Business-Questions)
-- [Data collected from SQL data mining]
+- [Dataset](#Dataset)
 - [Insights](#Insights)
 - [Recommendations](#Recommendations)
 
@@ -45,7 +45,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - What is the average price of dishes within each category, and how does this influence customer choices and profitability?
 - How many orders were made within a specific date range, and what does this tell us about customer behavior and peak periods?
 
-## Data collected from SQL data mining 📑
+## Dataset 📑
 
 The SQL queries performed to uncover these general insights can be found **[here](https://github.com/dianacoffman/World-Cafe-Operations-Analysis/blob/main/SQL_World%20Cafe%20Operations%20Analysis.sql)**.
 
