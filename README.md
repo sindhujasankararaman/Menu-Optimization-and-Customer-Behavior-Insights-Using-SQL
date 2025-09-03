@@ -3,12 +3,13 @@
 
 - [Executive Summary](#Executive-Summary)
 - [Business Request](#BUSINESS-Request)
-- Business Questions
-- Data collected from SQL data mining
-- Insights
-- Recommendations
+- [Strategy](#Strategy)
+- [Business Questions](#Business-Questions)
+- [Data collected from SQL data mining]
+- [Insights](#Insights)
+- [Recommendations](#Recommendations)
 
-## Executive Summary 
+## Executive Summary:
 
 World Cafe launched a new menu earlier this year but lacked data-driven insights into which items were performing well and which were preferred by top customers. To address this, I conducted exploratory data analysis using SQL to clean, summarize, and analyze transaction data, uncovering trends in customer orders and preferences.
 
@@ -28,14 +29,6 @@ Examine trends in customer preferences, with emphasis on top and repeat customer
 Summarize findings and provide actionable recommendations using SQL to guide marketing strategies, promotional initiatives, and menu optimization.
 
 The outcomes of this analysis will enable management to make informed, data-driven decisions that improve customer engagement, boost sales, and enhance menu profitability.
-
-## Overview 📖
-
-Conducted exploratory analysis and data cleaning to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
-
-## Introduction and Situation 📝🔎
-
-World Cafe is a restaurant that has diverse menu offerings and serves generous portions. The Taste of the World Cafe debuted a new menu at the start of the year. After switching the menu, they don’t know which menu items are doing well or not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
 
 ## Strategy 🎯
 
