@@ -1,7 +1,7 @@
 ## Menu Optimization and Customer Preference Insights using SQL
 ## Table of Contents 📚
 
-- Executive Summary
+- [Executive Summary](#Executive-Summary)
 - Business Problem
 - Business Questions
 - Data collected from SQL data mining
