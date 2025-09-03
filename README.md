@@ -1,17 +1,16 @@
-## Performance analysis of new products with SQL
-
-## Overview 📖
-
-Conducted exploratory analysis and data cleaning to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
-
+## Menu Optimization and Customer Preference Insights using SQL
 ## Table of Contents 📚
 
-- Introduction and Situation
-- Strategy
+- Executive Summary
+- Business Problem
 - Business Questions
 - Data collected from SQL data mining
 - Insights
 - Recommendations
+
+## Overview 📖
+
+Conducted exploratory analysis and data cleaning to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
 
 ## Introduction and Situation 📝🔎
 
