@@ -2,7 +2,7 @@
 ## Table of Contents 📚
 
 - [Executive Summary](#Executive-Summary)
-- Business Problem
+- [Business Request](#BUSINESS-Request)
 - Business Questions
 - Data collected from SQL data mining
 - Insights
@@ -15,6 +15,19 @@ World Cafe launched a new menu earlier this year but lacked data-driven insights
 The analysis revealed that the Italian food category was the top-performing and most profitable, while Mexican dishes had lower sales and engagement. Key findings included daily sales averages, top-selling items like the Hamburger (622 orders), and low-performing items like Chicken Tacos (123 orders).
 
 Based on these insights, I recommended aligning pricing strategies with high-performing items, emphasizing popular dishes in marketing campaigns, promoting underperforming categories through targeted promotions, and analyzing high-value orders to optimize pricing and upselling opportunities. Implementing these strategies is expected to improve menu performance, increase profitability, and enhance customer satisfaction.
+
+## Business Request
+The World Cafe has recently launched “The Taste of the World Cafe” new menu, but management currently lacks a structured understanding of which items are performing well, which are underperforming, and what top customers prefer. These insights are critical to designing effective marketing campaigns, optimizing pricing and promotions, and increasing overall sales and profitability.
+
+This request seeks a comprehensive analysis to:
+
+Identify high- and low-performing menu items through exploratory data analysis and data cleaning.
+
+Examine trends in customer preferences, with emphasis on top and repeat customers.
+
+Summarize findings and provide actionable recommendations using SQL to guide marketing strategies, promotional initiatives, and menu optimization.
+
+The outcomes of this analysis will enable management to make informed, data-driven decisions that improve customer engagement, boost sales, and enhance menu profitability.
 
 ## Overview 📖
 
